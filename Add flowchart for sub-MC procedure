@@ -1,0 +1,63 @@
+# Detailed Procedure and Timeline Flowchart
+
+```mermaid
+graph TD
+    A[Preliminary Preparation (2 weeks)] --> B[Proposal Documentation (3 weeks)]
+    B --> C[Submission to MC (1 week)]
+    C --> D[Convening EGM (6 weeks)]
+    D --> E[Application to PTG (4 weeks)]
+    E --> F[Submission to JUPEM (6 weeks)]
+    F --> G[Registration with Land Office (4 weeks)]
+    G --> H[Formation of Sub-MC (4 weeks)]
+
+    subgraph A1[Preliminary Preparation]
+        A2[Week 1-2]
+        A3[Conduct feasibility study]
+        A4[Consult with legal and property professionals]
+        A5[Gather necessary documents]
+    end
+
+    subgraph B1[Proposal Documentation]
+        B2[Week 3-5]
+        B3[Prepare proposal documents]
+        B4[Obtain initial consent from proprietors]
+    end
+
+    subgraph C1[Submission to MC]
+        C2[Week 6]
+        C3[Submit proposal to MC for review]
+    end
+
+    subgraph D1[Convening EGM]
+        D2[Week 7-9]
+        D3[Issue notice for EGM]
+        D4[Week 10-12]
+        D5[Conduct EGM]
+        D6[Achieve required majority vote]
+    end
+
+    subgraph E1[Application to PTG]
+        E2[Week 13-16]
+        E3[Prepare documents for PTG]
+        E4[Submit application to PTG]
+        E5[Await PTG review and approval]
+    end
+
+    subgraph F1[Submission to JUPEM]
+        F2[Week 17-22]
+        F3[Submit survey plans to JUPEM]
+        F4[Await JUPEM review and approval]
+    end
+
+    subgraph G1[Registration with Land Office]
+        G2[Week 23-26]
+        G3[Register sub-MC with Land Office]
+    end
+
+    subgraph H1[Formation of Sub-MC]
+        H2[Week 27-30]
+        H3[Convene first AGM of sub-MC]
+        H4[Set up operational structures]
+        H5[Elect office bearers]
+        H6[Adopt by-laws]
+    end
